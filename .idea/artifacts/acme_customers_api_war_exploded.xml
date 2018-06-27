@@ -10,6 +10,7 @@
           <element id="archive" name="acme-customers-lib-1.0.0-SNAPSHOT.jar">
             <element id="module-output" name="acme-customers-lib" />
           </element>
+          <element id="library" level="project" name="Maven: com.h2database:h2:1.4.196" />
         </element>
       </element>
       <element id="directory" name="META-INF">
