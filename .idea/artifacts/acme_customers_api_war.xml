@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="acme-customers-api:war">
+    <output-path>$PROJECT_DIR$/api/target</output-path>
+    <root id="archive" name="acme-customers-api-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="acme-customers-api:war exploded" />
+    </root>
+  </artifact>
+</component>
